@@ -1,6 +1,6 @@
 body {
   background-color: #EAF6F6;
-  
+
 }
 
 hr{
@@ -18,4 +18,8 @@ h1{
 
 h3{
   color: #66bfbf;
+}
+
+.fit-picture{
+  border-radius: 100%;
 }
